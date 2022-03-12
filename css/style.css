@@ -1,0 +1,11 @@
+div{display:inline-block; min-height:250px; min-width:300px}
+fieldset{min-height:250px; min-width:300px; display: inline-block; border-radius:10px;}
+legend, button, label{font-family:sans-serif; font-size:17px; color:white; text-shadow: 1px 0 1px #000, 0 1px 1px #000, -1px 0 1px #000, 0 -1px 1px #000;}
+form{background-color:gray; max-width:670px; border-radius:10px;}
+select, input, checkbox, radiobutton, textarea, button{opacity: .7; background-color:#ccc;border-radius:10px;}
+button{min-width:100px; min-height:50px; font-family:sans-serif; }
+select, textarea{min-width:200px}
+html{background-color: #ccc}
+form{background-image:url(../Images/areYouShivering.jpg); background-position: center; background-repeat: no-repeat; background-size: cover;}
+em{color:red;}
+button:hover{background-color: black;}
