@@ -1,4 +1,4 @@
-function form_data_ver()
+function formDataVer()
 {
 	var t1=document.forms.form1.t1.value;
 	var t2=document.forms.form1.t2.value;
